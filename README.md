@@ -44,10 +44,6 @@ try {
 }
 ```
 
-## Documentation
-
-[Add detailed documentation here]
-
 ## License
 
 MIT
